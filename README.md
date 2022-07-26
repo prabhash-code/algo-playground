@@ -1,6 +1,6 @@
 # algo-playground
 
-This repository contains solutions for questions from `HackerRank`.
+This repository contains solutions for questions in `HackerRank`.
 
 ### How to use
 - Folders are based on the category of the DSA.

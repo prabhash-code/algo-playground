@@ -13,9 +13,9 @@
 </div>
 
 # Content
-- [How to Use](how-to-use)
-- [Data Structures](data-structures)
-- [Contribute](contribute)
+- [How to Use](#how-to-use)
+- [Data Structures](#data-structures---arrays)
+- [Contribute](#contribute)
 
 ### How to Use
 - Folders are based on the category of the DSA.
@@ -28,7 +28,7 @@
 > ℹ️ ***We are pretty sure, you may see the problem in a different way. Feel free to optimize.***
 
 
-### Data Structures
+### Data Structures - Arrays
 |                                                  Problem                                                  |                                                     Web Link                                                      |                                            Solution                                            |
 |:---------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
 |        [Array Reverse](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/README.md)         |  [www.hackerrank.com/arrays-ds](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)        | [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/Solution.java) |

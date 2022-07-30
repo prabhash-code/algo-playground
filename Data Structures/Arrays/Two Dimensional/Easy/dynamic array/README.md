@@ -20,5 +20,5 @@ The inner array of `queries` contains 3 items `query type`, `x` and `y` respecti
 <details>
   <summary>Click here to expand the solution</summary>
 
-1. There is no need a detailed description since all the instructions and logic already given by the questions itself. We just need to copy-paste kind of thing to do.
+1. There is no need for a detailed description since all the instructions and logic are already given by the question itself. We just need a copy-paste kind of thing to do.
 </details>

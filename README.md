@@ -29,11 +29,11 @@
 
 
 ### Data Structures
-| Problem                                                                                        | Solution                                                                                             |
-|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|
-| [Array Reverse](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true) | [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/Solution.java)       |
-| [Hourglass](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true)     | [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/hourglass/Solution.java)             |
-| [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true) | [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/dynamic%20array/Solution.java)          |
+|                         Problem                                                                            |                                                                                     Web Link                                                                                     |                                               Solution                                                |
+|:----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
+|         [Array Reverse](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/README.md)         |                                    [www.hackerrank.com/arrays-ds](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)                                     |    [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/Solution.java)     |
+|      [Hourglass][Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/hourglass/README.md)       |                                 [www.hackerrank.com/2d-arrayHourglass](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true)                                 |       [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/hourglass/Solution.java)        |
+| [Dynamic Array][Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/dynamic%20array/README.md)  |                                [www.hackerrank.com/dynamic-array](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true)                                 |    [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/dynamic%20array/Solution.java)     |
   
 
 ### Contribute

@@ -7,7 +7,7 @@ Example<br>
 Return<br>
 >***[3,2,1]***
 
-## Solution - Thought process
+## Solution
 <details>
   <summary>Click to expand!</summary>
 

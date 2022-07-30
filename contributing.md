@@ -10,3 +10,26 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 
 ## Folder structure guidelines
+- Typical folder structure should be like below
+`
+├── ds
+│   ├── arrays
+│   │   ├── 1D
+│   │   │   ├── easy
+│   │   │   │   ├── question
+│   │   │   │   │   ├── Solution.java
+│   │   │   │   │   ├── README.md
+│   │   │   ├── medium
+│   │   │   │   ├── ...
+│   │   │   ├── hard
+│   │   │   │   ├── ...
+│   │   ├── 2D
+│   │   │   ├── ...
+│   ├── linked lists
+│   ├── stacks
+│   ├── ...
+├── algo
+│   ├── ...
+├── contributing.md
+└── README.md
+`

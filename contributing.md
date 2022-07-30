@@ -10,8 +10,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 
 ## Folder Structure Guidelines
-- Typical folder structure should be like below
-`
+1. Typical folder structure should be like below
+```
 ├── ds
 │   ├── arrays
 │   │   ├── 1D
@@ -32,9 +32,9 @@ Please ensure your pull request adheres to the following guidelines:
 │   ├── ...
 ├── contributing.md
 └── README.md
-`
-- The first level we divided Data Structures and Algorithms separately
-- Here is few supported data structures but not limited to
+```
+2. The first level we divided Data Structures and Algorithms separately
+3. Here is few supported data structures but not limited to
   - Arrays 
   - Linked Lists
   - Stacks
@@ -43,13 +43,14 @@ Please ensure your pull request adheres to the following guidelines:
   - Graphs
   - Heap 
   - Trie
-- Each data structure may have further subcategories(Ex: Queue -> Priority Queue, Double Ended Queue)
-- Finally, comes the difficulty level(easy, medium and hard) and question
-- Every question must contain `Solution.java` and `README.md` files.
+4. Each data structure may have further subcategories(Ex: Queue -> Priority Queue, Double Ended Queue)
+5. Finally, comes the difficulty level(easy, medium and hard) and question
+   - Every question must contain `Solution.java` and `README.md` files.
 
 ## Collapsible Section Guidelines
 
-`# A collapsible section with markdown
+```
+# A collapsible section with markdown
 <details>
   <summary>Click to expand!</summary>
 
@@ -58,9 +59,9 @@ Please ensure your pull request adheres to the following guidelines:
 2. list
     * With some
     * Sub bullets
-</details>`
+</details>
+```
 
 Two important rules:
-
-Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly.
-Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections.
+1. Make sure you have an ***empty line*** after the closing `</summary>` tag, otherwise the markdown/code blocks won't show correctly.
+2. Make sure you have an ***empty line*** after the closing `</details>` tag if you have multiple collapsible sections.

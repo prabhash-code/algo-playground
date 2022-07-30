@@ -12,28 +12,28 @@ Please ensure your pull request adheres to the following guidelines:
 ## Folder Structure Guidelines
 1. Typical folder structure should be like below
 ```
-├── ds
-│   ├── arrays
-│   │   ├── 1D
-│   │   │   ├── easy
+├── Data Structures
+│   ├── Arrays
+│   │   ├── One Dimensional
+│   │   │   ├── Easy
 │   │   │   │   ├── question
-│   │   │   │   │   ├── dynamicArray.ds.arrays.twoD.easy.ds.arrays.oneD.easy.arrayReverse.Solution.java
 │   │   │   │   │   ├── README.md
-│   │   │   ├── medium
+│   │   │   │   │   ├── Solution.java
+│   │   │   ├── Medium
 │   │   │   │   ├── ...
-│   │   │   ├── hard
+│   │   │   ├── Hard
 │   │   │   │   ├── ...
-│   │   ├── 2D
+│   │   ├── Two Dimensional
 │   │   │   ├── ...
-│   ├── linked lists
-│   ├── stacks
+│   ├── Linked Lists
+│   ├── Stacks
 │   ├── ...
-├── algo
+├── Algorithms
 │   ├── ...
 ├── contributing.md
 └── README.md
 ```
-2. The first level we divided Data Structures and Algorithms separately. Here is few supported data structures but not limited to
+2. The first level we divided `Data Structures` and `Algorithms` separately. Here is few supported data structures but not limited to
    - Arrays 
    - Linked Lists
    - Stacks
@@ -43,8 +43,8 @@ Please ensure your pull request adheres to the following guidelines:
    - Heap 
    - Trie
 3. Each data structure may have further subcategories(Ex: Queue -> Priority Queue, Double Ended Queue)
-4. Finally, comes the difficulty level(easy, medium and hard) and question
-   - Every question must contain `dynamicArray.ds.arrays.twoD.easy.ds.arrays.oneD.easy.arrayReverse.Solution.java` and `README.md` files.
+4. Finally, comes the difficulty level(Easy, Medium and Hard) and question
+   - Every question must contain `Solution.java` and `README.md` files.
 
 ## Collapsible Section Guidelines
 

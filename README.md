@@ -10,4 +10,4 @@ This repository contains solutions for questions in `HackerRank`.
 - `.java` file contains the code for the solution.
 
 
-> NOTE: ***These are just my solutions and feel free to optimize. I'm pretty sure, you may see the problem in different perspective.***
+> NOTE: ***These are just my solutions and feel free ===to change and optimize===. I'm pretty sure, you may see the problem in different perspective.***

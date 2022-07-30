@@ -3,7 +3,7 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - First, make sure your code is working properly and pass all the test cases.
-- Place it in a proper folder.(Please use the [folder structure guidelines](#folder-structure-guidelines))
+- Place it in a proper folder.(Please refer the [folder structure guidelines](#folder-structure-guidelines))
 - Create a README.md file describing your question and solution.
   - Keep descriptions short and simple, but descriptive.
   - Solution must be inside a [collapsible section](#collapsible-section-guidelines).

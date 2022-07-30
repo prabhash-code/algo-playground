@@ -1,4 +1,3 @@
-package ds.arrays.oneD.easy.arrayReverse;
 
 import java.io.*;
 import java.math.*;

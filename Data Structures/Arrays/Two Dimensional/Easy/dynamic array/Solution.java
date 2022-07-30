@@ -1,4 +1,3 @@
-package ds.arrays.twoD.easy.dynamicArray;
 
 import java.util.*;
 
@@ -17,7 +16,7 @@ class Solution {
 
   public static List<Integer> dynamicArray(int n, List<List<Integer>> queries) {
     int lastAnswer = 0;
-    List<Integer> ans = new ArrayList<>();
+    List<Integer> answers = new ArrayList<>();
 
     /* Create 2-D ArrayList */
     ArrayList<ArrayList<Integer>> lists = new ArrayList();
@@ -34,10 +33,10 @@ class Solution {
         seq.add(y);
       } else if (q == 2) {
         lastAnswer = seq.get(y % seq.size());
-        ans.add(lastAnswer);
+        answers.add(lastAnswer);
       }
     }
-    return ans;
+    return answers;
   }
 
 }

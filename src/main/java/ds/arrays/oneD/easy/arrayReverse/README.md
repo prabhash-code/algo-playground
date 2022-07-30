@@ -1,4 +1,4 @@
-## Question
+## Question 🤔
 Reverse an array of integers.
 
 Example<br>
@@ -7,7 +7,7 @@ Example<br>
 Return<br>
 >***[3,2,1]***
 
-## dynamicArray.ds.arrays.twoD.easy.ds.arrays.oneD.easy.arrayReverse.Solution
+## Solution 🙋
 <details>
   <summary>Click here to expand the solution</summary>
 

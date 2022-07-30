@@ -19,7 +19,10 @@
 - `README.md` file describes the question and the explained solution.
 - `.java` file contains the code for the solution.
 
+  
+
+> ℹ️ ***We are pretty sure, you may see the problem in a different way. Feel free to optimize.***
+  
+  
 ### Contribute
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
-
-> `NOTE`: ***These are just my solutions and feel free to change and optimize. I'm pretty sure, you may see the problem in different perspective.***

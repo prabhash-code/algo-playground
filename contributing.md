@@ -35,14 +35,14 @@ Please ensure your pull request adheres to the following guidelines:
 ```
 2. The first level we divided Data Structures and Algorithms separately
 3. Here is few supported data structures but not limited to
-  - Arrays 
-  - Linked Lists
-  - Stacks
-  - Queues
-  - Trees
-  - Graphs
-  - Heap 
-  - Trie
+   - Arrays 
+   - Linked Lists
+   - Stacks
+   - Queues
+   - Trees
+   - Graphs
+   - Heap 
+   - Trie
 4. Each data structure may have further subcategories(Ex: Queue -> Priority Queue, Double Ended Queue)
 5. Finally, comes the difficulty level(easy, medium and hard) and question
    - Every question must contain `Solution.java` and `README.md` files.
@@ -63,5 +63,5 @@ Please ensure your pull request adheres to the following guidelines:
 ```
 
 Two important rules:
-1. Make sure you have an ***empty line*** after the closing `</summary>` tag, otherwise the markdown/code blocks won't show correctly.
-2. Make sure you have an ***empty line*** after the closing `</details>` tag if you have multiple collapsible sections.
+1. Make sure you have an **empty line** after the closing `</summary>` tag, otherwise the markdown/code blocks won't show correctly.
+2. Make sure you have an **empty line** after the closing `</details>` tag if you have multiple collapsible sections.

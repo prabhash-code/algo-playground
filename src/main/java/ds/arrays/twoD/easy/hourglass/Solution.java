@@ -1,3 +1,5 @@
+package ds.arrays.twoD.easy.hourglass;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;

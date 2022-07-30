@@ -15,7 +15,7 @@ An hourglass in `A` is a subset of values with indices falling in this pattern i
 There are 16 hourglasses in `arr`. An hourglass sum is the sum of an hourglass' values. Calculate the hourglass sum for every hourglass in `arr`, then print the maximum hourglass sum. The array will always be `6 x 6`.
 
 
-## Solution
+## dynamicArray.ds.arrays.twoD.easy.ds.arrays.oneD.easy.arrayReverse.Solution
 <details>
   <summary>Click here to expand the solution</summary>
 

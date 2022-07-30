@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Place it in a proper folder.(Please refer the [folder structure guidelines](#folder-structure-guidelines))
 - Create a README.md file describing your question and solution.
   - Keep descriptions short and simple, but descriptive.
-  - Solution must be inside a [collapsible section](#collapsible-section-guidelines).
+  - dynamicArray.ds.arrays.twoD.easy.ds.arrays.oneD.easy.arrayReverse.Solution must be inside a [collapsible section](#collapsible-section-guidelines).
 - Check your spelling and grammar.
 
 ## Folder Structure Guidelines
@@ -17,7 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 │   │   ├── 1D
 │   │   │   ├── easy
 │   │   │   │   ├── question
-│   │   │   │   │   ├── Solution.java
+│   │   │   │   │   ├── dynamicArray.ds.arrays.twoD.easy.ds.arrays.oneD.easy.arrayReverse.Solution.java
 │   │   │   │   │   ├── README.md
 │   │   │   ├── medium
 │   │   │   │   ├── ...
@@ -44,7 +44,7 @@ Please ensure your pull request adheres to the following guidelines:
    - Trie
 3. Each data structure may have further subcategories(Ex: Queue -> Priority Queue, Double Ended Queue)
 4. Finally, comes the difficulty level(easy, medium and hard) and question
-   - Every question must contain `Solution.java` and `README.md` files.
+   - Every question must contain `dynamicArray.ds.arrays.twoD.easy.ds.arrays.oneD.easy.arrayReverse.Solution.java` and `README.md` files.
 
 ## Collapsible Section Guidelines
 

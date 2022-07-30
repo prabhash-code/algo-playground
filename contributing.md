@@ -6,10 +6,10 @@ Please ensure your pull request adheres to the following guidelines:
 - Place it in a proper folder.(Please use the [folder structure guidelines](#folder-structure-guidelines))
 - Create a README.md file describing your question and solution.
   - Keep descriptions short and simple, but descriptive.
-  - Start the description with a capital and end with a full stop/period.
+  - Solution must be inside a [collapsible section](#collapsible-section-guidelines).
 - Check your spelling and grammar.
 
-## Folder structure guidelines
+## Folder Structure Guidelines
 - Typical folder structure should be like below
 `
 ├── ds
@@ -33,3 +33,34 @@ Please ensure your pull request adheres to the following guidelines:
 ├── contributing.md
 └── README.md
 `
+- The first level we divided Data Structures and Algorithms separately
+- Here is few supported data structures but not limited to
+  - Arrays 
+  - Linked Lists
+  - Stacks
+  - Queues
+  - Trees
+  - Graphs
+  - Heap 
+  - Trie
+- Each data structure may have further subcategories(Ex: Queue -> Priority Queue, Double Ended Queue)
+- Finally, comes the difficulty level(easy, medium and hard) and question
+- Every question must contain `Solution.java` and `README.md` files.
+
+## Collapsible Section Guidelines
+
+`# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+
+## Heading
+1. A numbered
+2. list
+    * With some
+    * Sub bullets
+</details>`
+
+Two important rules:
+
+Make sure you have an empty line after the closing </summary> tag, otherwise the markdown/code blocks won't show correctly.
+Make sure you have an empty line after the closing </details> tag if you have multiple collapsible sections.

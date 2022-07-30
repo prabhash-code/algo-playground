@@ -51,7 +51,7 @@ Please ensure your pull request adheres to the following guidelines:
 ```
 # A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click here to expand the solution</summary>
 
 ## Heading
 1. A numbered

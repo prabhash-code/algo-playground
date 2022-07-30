@@ -9,7 +9,7 @@ Return<br>
 
 ## Solution
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click here to expand the solution</summary>
 
 1. Find the mid-point of the given array.
 2. Swap the elements - First element with the last and second element with the one before last, etc.

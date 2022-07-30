@@ -17,7 +17,7 @@ There are 16 hourglasses in `arr`. An hourglass sum is the sum of an hourglass' 
 
 ## Solution
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click here to expand the solution</summary>
 
 1. Define `sum` variable with minimum integer value
 2. We need two loops since this is a 2D array.

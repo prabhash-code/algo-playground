@@ -31,7 +31,7 @@
 ### Data Structures
 | Problem                                                                                        | Solution                                                                                 |
 |:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
-| [Array Reverse](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true) | [Solution.java](Data Structures/Arrays/One Dimensional/Easy/array-reverse/Solution.java) |
+| [Array Reverse](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true) | [Solution.java](Data Structures/Arrays/One-Dimensional/Easy/array-reverse/Solution.java) |
 | [Hourglass](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true)     | [Solution.java](Data-Structures/Arrays/Two-Dimensional/Easy/hourglass/Solution.java)     |
 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true) | [Solution.java](Data-Structures/Arrays/Two-Dimensional/Easy/dynamic-array/Solution.java) |
   

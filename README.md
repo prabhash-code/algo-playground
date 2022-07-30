@@ -12,6 +12,11 @@
 
 </div>
 
+# Content
+- [How to Use](how-to-use)
+- [Data Structures](data-structures)
+- [Contribute](contribute)
+
 ### How to Use
 - Folders are based on the category of the DSA.
 - Each category has three subcategories called `Easy`, `Medium` and `Hard` based on the difficulty level.
@@ -19,10 +24,17 @@
 - `README.md` file describes the question and the explained solution.
 - `.java` file contains the code for the solution.
 
-  
 
 > ℹ️ ***We are pretty sure, you may see the problem in a different way. Feel free to optimize.***
+
+
+### Data Structures
+| Problem                                                                                        | Solution                                                                                 |
+|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
+| [Array Reverse](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true) | [Solution.java](Data Structures/Arrays/One Dimensional/Easy/array-reverse/Solution.java) |
+| [Hourglass](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true)     | [Solution.java](Data-Structures/Arrays/Two-Dimensional/Easy/hourglass/Solution.java)     |
+| [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true) | [Solution.java](Data-Structures/Arrays/Two-Dimensional/Easy/dynamic-array/Solution.java) |
   
-  
+
 ### Contribute
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.

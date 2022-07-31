@@ -14,10 +14,11 @@
 
 # Content
 - [How to Use](#how-to-use)
-- [Data Structures](#data-structures---arrays)
+- [Solutions](#solutions)
+  - [Data Structures - Arrays](#data-structures---arrays)
 - [Contribute](#contribute)
 
-### How to Use
+## How to Use
 - Folders are based on the category of the DSA.
 - Each category has three subcategories called `Easy`, `Medium` and `Hard` based on the difficulty level.
 - Every leaf folder has `Solution.java` and `README.md` file.
@@ -27,7 +28,7 @@
 
 > ℹ️ ***We are pretty sure, you may see the problem in a different way. Feel free to optimize.***
 
-
+## Solutions
 ### Data Structures - Arrays
 |                                             Problem                                             |                                                            Web Link                                                            |                                             Solution                                              |
 |:-----------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
@@ -38,5 +39,5 @@
 |  [Sparse Arrays](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/README.md)   |       [www.hackerrank.com/sparse-arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)        | [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/Solution.java)  |
   
 
-### Contribute
+## Contribute
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.

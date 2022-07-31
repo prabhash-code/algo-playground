@@ -3,19 +3,20 @@ There is a collection of input strings and a collection of query strings. For ea
 
 Example<br>
 >***strings = ['ab', 'ab', 'abc']***
+
 >***queries = ['ab', 'abc', 'bc']***
 
 Return<br>
-There are 2 instances of `ab`, 1 of `abc` and 0 of `bc`.
->***[2,1,0]***
+There are 2 instances of `ab`, 1 of `abc` and 0 of `bc`. Then,
+>***return [2,1,0]***
 
 ## Solution 🙋
 <details>
   <summary>Click here to expand the solution</summary>
 
-> We can use the commented brute force way. But it will take O(n^2). There is a better solution that executes in O(n) time. (Tip: It uses HashMap which takes constant time for `get` and `put` operations.)
+> Note: We can use the commented brute force way. But it will take $O(n^2)$ time. There is a better solution that executes in O(n) time. (Tip: It uses HashMap which takes constant time for `get` and `put` operations.)
 
-1. First, we create a `HashMap` to hold our `string` counts and an `ArrayList` for the final output.
+1. First, we create a `HashMap` to hold our `string counts` and an `ArrayList` for the final output.
 2. Then we loop through in `strings` and get the count for each `string`.
    1. If the hashmap already contains the key we increase the count for it.
    2. Otherwise, put it as a new key.

@@ -22,8 +22,8 @@
 - Folders are based on the category of the DSA.
 - Each category has three subcategories called `Easy`, `Medium` and `Hard` based on the difficulty level.
 - Every leaf folder has `Solution.java` and `README.md` file.
-- `README.md` file describes the question and the explained solution.
-- `.java` file contains the code for the solution.
+  - `README.md` file describes the question and the solution process.
+  - `Solution.java` file contains the code.
 
 
 > ℹ️ ***We are pretty sure, you may see the problem in a different way. Feel free to optimize.***

@@ -1,18 +1,27 @@
 ## Question 🤔
-Given a `6 x 6` 2D Array, `arr`:
-> 1 1 1 0 0 0<br>
-> 0 1 0 0 0 0<br>
-> 1 1 1 0 0 0<br>
-> 0 0 0 0 0 0<br>
-> 0 0 0 0 0 0<br>
-> 0 0 0 0 0 0<br>
 
-An hourglass in `A` is a subset of values with indices falling in this pattern in `arr`'s graphical representation:
-> a b c<br>
-> &nbsp;&nbsp;&nbsp;d<br>
-> e f g<br>
+Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each the array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in the array.
 
-There are 16 hourglasses in `arr`. An hourglass sum is the sum of an hourglass' values. Calculate the hourglass sum for every hourglass in `arr`, then print the maximum hourglass sum. The array will always be `6 x 6`.
+Example:<br>
+***n = 10***<br>
+***queries = [[1, 5, 3],[4, 8, 7],[6, 9, 1]]***
+
+Queries are interpreted as follows:
+> a b k<br>
+> 1 5 3<br>
+> 4 8 7<br>
+> 6 9 1<br>
+
+Add the values of `k` between the indices `a` and `b` inclusive:
+
+|     Index     |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 | 10 |
+|:-------------:|----:|----:|----:|----:|----:|----:|----:|----:|----:|---:|
+| Initial value |    0  |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |  0 |
+|   Step one    |       3       |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |  0 |
+|   Step two    |       3       |   3 |   3 |  10 |  10 |   7 |   7 |   7 |   0 |  0 |
+|  Step three   |       3       |   3 |   3 |  10 |  10 |   8 |   8 |   8 |   1 |  0 |
+
+The largest value is `10` after all operations are performed.
 
 
 ## Solution 🙋

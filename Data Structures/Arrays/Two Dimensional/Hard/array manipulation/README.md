@@ -28,9 +28,6 @@ The largest value is `10` after all operations are performed.
 <details>
   <summary>Click here to expand the solution</summary>
 
-1. Define `sum` variable with minimum integer value
-2. We need two loops since this is a 2D array.
-3. We have a condition that array always be `6 x 6`. 
-4. Then we can get total of `first`, `second` and `third` rows separately. ( Hence we just need to loop 4 times in both sides; to right and to bottom. )
-5. Finally, checked that total(`temp`) with previous total(`sum`) and keep the greater one.
+#### Brute force solution
+1. ...
 </details>

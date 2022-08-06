@@ -12,7 +12,12 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 public class TestYourCode {
+
+  /**
+   * This is the space where you can test your code
+   * If you are a contributor please make sure to keep this clean when you are committing
+   */
   public static void main(String[] args) {
-    System.out.println("Use this space to test and debug your code...");
+    // Use this space to test and debug your code...
   }
 }

@@ -19,11 +19,12 @@
 - [Contribute](#contribute)
 
 ## How to Use
-- Folders are based on the category of the DSA.
-- Each category has three subcategories called `Easy`, `Medium` and `Hard` based on the difficulty level.
-- Every leaf folder has `Solution.java` and `README.md` file.
-  - `README.md` file describes the question and the solution process.
-  - `Solution.java` file contains the code.
+- Folders are based on the category of the DSA.( Currently, have ***Data Structures*** folder only. )
+  - Each category has three subcategories called `Easy`, `Medium` and `Hard` based on the difficulty level.
+  - Every leaf folder has `Solution.java` and `README.md` file.
+    - `README.md` file describes the question and the solution process.
+    - `Solution.java` file contains the code.
+- There is the ***src*** folder which you can use for test your code. 
 
 
 > ℹ️ ***We are pretty sure, you may see the problem in a different way. Feel free to optimize.***

@@ -25,3 +25,9 @@ There are 2 instances of `ab`, 1 of `abc` and 0 of `bc`. Then,
    1. Check if the hashmap already contains the `query/key` if not that `query` does not appear in the `strings`.
 </details>
 
+[//]: # (adding additional margin from bottom)
+<br>
+<br>
+<br>
+<br>
+

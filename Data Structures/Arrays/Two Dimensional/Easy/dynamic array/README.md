@@ -22,3 +22,9 @@ The inner array of `queries` contains 3 items `query type`, `x` and `y` respecti
 
 1. There is no need for a detailed description since all the instructions and logic are already given by the question itself. We just need a copy-paste kind of thing to do.
 </details>
+
+[//]: # (adding additional margin from bottom)
+<br>
+<br>
+<br>
+<br>

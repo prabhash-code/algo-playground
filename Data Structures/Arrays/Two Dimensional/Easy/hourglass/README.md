@@ -25,3 +25,9 @@ There are 16 hourglasses in `arr`. An hourglass sum is the sum of an hourglass' 
 4. Then we can get total of `first`, `second` and `third` rows separately. ( Hence we just need to loop 4 times in both sides; to right and to bottom. )
 5. Finally, checked that total(`temp`) with previous total(`sum`) and keep the greater one.
 </details>
+
+[//]: # (adding additional margin from bottom)
+<br>
+<br>
+<br>
+<br>

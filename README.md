@@ -16,6 +16,7 @@
 - [How to Use](#how-to-use)
 - [Solutions](#solutions)
   - [Data Structures - Arrays](#data-structures---arrays)
+  - [Data Structures - Linked Lists](#data-structures---linked-lists)
 - [Contribute](#contribute)
 
 ## How to Use

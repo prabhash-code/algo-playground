@@ -34,3 +34,7 @@ nb-configuration.xml
 
 # Local environment
 .env
+
+# test space and output
+src
+out

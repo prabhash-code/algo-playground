@@ -24,7 +24,7 @@ class Solution {
 
   public static long arrayManipulation(int n, List<List<Integer>> queries) {
     // brute force solution
-    Map<Integer, Long> map = new HashMap<>();
+    /*Map<Integer, Long> map = new HashMap<>();
     Long largest = 0L;
 
     for(int i = 0; i < queries.size(); i++){
@@ -44,30 +44,27 @@ class Solution {
           largest = map.get(j);
       }
 
-    }
+    }*/
 
+    //better approach
     Long largest = 0L;
-    long [] array = new long[n + 1];
+    long[] array = new long[n + 1];
 
-    for(int i = 0; i < queries.size(); i++){
-      int a = queries.get(i).get(0);
-      int b = queries.get(i).get(1);
+    for (int i = 0; i < queries.size(); i++) {
+      int start = queries.get(i).get(0);
+      int end = queries.get(i).get(1);
       int k = queries.get(i).get(2);
 
-      array[a-1] += k;
-      array[b]   -= k;
-
+      array[start - 1] += k;
+      array[end] -= k;
     }
 
     /* Find max value */
     long sum = 0;
-    long max = 0;
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < array.length; i++) {
       sum += array[i];
-      max = Math.max(max, sum);
+      largest = Math.max(largest, sum);
     }
-
-    return max;
 
     return largest;
   }

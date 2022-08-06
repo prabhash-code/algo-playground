@@ -1,9 +1,10 @@
 ## Question 🤔
 
-Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each the array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in the array.
+Starting with a 1-indexed array of zeros and a list of operations(`m`), for each operation add a value to each the array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in the array.
 
 Example:<br>
-***n = 10***<br>
+***n = 10*** (size of array)<br>
+***m = 3*** (number of operations)<br>
 ***queries = [[1, 5, 3],[4, 8, 7],[6, 9, 1]]***
 
 Queries are interpreted as follows:
@@ -28,8 +29,8 @@ The largest value is `10` after all operations are performed.
 <details>
   <summary>Click here to expand the solution</summary>
 
-#### Brute Force Solution
-> ***NOTE***: This logic is works, but fails the time constraint. There is a better solution in the below.
+### Brute Force Solution
+> ***NOTE***: This logic is works, but fails the time constraint. This will take O(n * m) time.
 
 > ***Thought process***: As per above explanation you can see we just need to get the cumulative total from each step, only between the `start` and `end` indexes.
 
@@ -39,6 +40,17 @@ The largest value is `10` after all operations are performed.
    1. First get the current value of the `j`th index; if it's null putting a new value otherwise add it to the existing value.
    2. Finally, check the current `j`th value is largest or not.
 4. When the loops are over we have the largest value and returned it.
+
+
+### Better Solution
+> ***NOTE***: This approach from the [Rodney Shaghoulian](https://www.hackerrank.com/RodneyShag?hr_r=1) and all credits goes to him. This will only take O(n + m) time, though it is a significant improvement than the above.
+
+> ***Thought process***: For each of the `m` operations, we do not want to take O(n) time to process it. To get a O(n+m) runtime, we have to process each operation in O(1) time. To do so, we keep track of just the endpoints, which are just 2 numbers, instead of the O(n) numbers in between the endpoints. This is the main idea to decrease our runtime.
+
+1. We create a new `array` to maintain the cumulative values of `a` and `b` positions.
+2. In the iteration we mark `k`'s left endpoint `a` in the original array, along with its right endpoint `b` in the original array. To distinguish between `a` and `b` we store `+k` for `a` and `-k` for `b`.
+3. Then traverse through the `array` from left to right. Whenever we reach a left endpoint `a` (which we represented with a positive number), we just add that to the `sum`. Whenever we reach a right endpoint `b` (which we represented with a negative number), will be subtracted from the `sum`.
+
 
 </details>
 

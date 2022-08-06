@@ -29,6 +29,7 @@
 
 > ℹ️ ***We are pretty sure, you may see the problem in a different way. Feel free to optimize.***
 
+
 ## Solutions
 ### Data Structures - Arrays
 |                                               Problem                                                |                                                           Web Link                                                            |                                             Solution                                              |
@@ -39,7 +40,13 @@
 |      [Left Rotation](Data%20Structures/Arrays/One%20Dimensional/Easy/left%20rotation/README.md)      | [www.hackerrank.com/array-left-rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true) |  [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/left%20rotation/Solution.java)   |
 |     [Sparse Arrays](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/README.md)     |       [www.hackerrank.com/sparse-arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)       | [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/Solution.java)  |
 | [Array Manipulation](Data%20Structures/Arrays/Two%20Dimensional/Hard/array%20manipulation/README.md) |        [www.hackerrank.com/array-manipulation](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true)         | [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Hard/array%20manipulation/Solution.java)  |
-  
+
+
+### Data Structures - Linked Lists
+|                                                 Problem                                                 |                                                           Web Link                                                            |                                             Solution                                              |
+|:-------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
+| [Print Elements in LinkedList](Data%20Structures/Linked%20Lists/Singly/Easy/print%20elements/README.md) |           [www.hackerrank.com/print-the-elements-of-a-linked-list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true)           |  [Solution.java](Data%20Structures/Linked%20Lists/Singly/Easy/print%20elements/Solution.java)   |
+
 
 ## Contribute
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.

@@ -9,7 +9,7 @@ after inserting this new node. The given head pointer may be null, meaning that 
 
 > ***NOTE***: Anyone curious to learn about LinkedLists from scratch [here is a good article](https://medium.com/@prabhash.code/java-collections-under-the-hood-linkedlist-e01-8444a0bb4544) which explain the implementation of the `java.util.LinkedList`.
 
-> Here I used the `LinkedList` structure which we are using in the [print elements](Data%20Structures/Linked%20Lists/Singly/Easy/insert%20a%20node%20at%20the%20tail/README.md) question.
+> Here I used the `LinkedList` structure which we are using in the [print elements](../print%20elements/README.md) question.
 
 1. We're given the `head` and value/s to insert.
 2. First set the `current` value as the `head`.

@@ -32,7 +32,12 @@
 
 
 ## Solutions
+
+
 ### Data Structures - Arrays
+<details>
+  <summary>Click here to expand</summary>
+
 |                                                Problem                                                |                                                           Web Link                                                            |                                               Solution                                               |
 |:-----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 |      [Array Reverse](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/README.md)       |           [www.hackerrank.com/arrays-ds](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)           |    [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/Solution.java)    |
@@ -42,8 +47,12 @@
 |     [Sparse Arrays](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/README.md)      |       [www.hackerrank.com/sparse-arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)       |   [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/Solution.java)   |
 | [Array Manipulation](Data%20Structures/Arrays/Two%20Dimensional/Hard/array%20manipulation/README.md)  |        [www.hackerrank.com/array-manipulation](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true)         | [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Hard/array%20manipulation/Solution.java)  |
 
+</details>
 
 ### Data Structures - Linked Lists
+<details>
+  <summary>Click here to expand</summary>
+
 |                                                                             Problem                                                                              |                                                                                              Web Link                                                                                              |                                                           Solution                                                            |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
 |                             [Print Elements in Linked List](Data%20Structures/Linked%20Lists/Singly/Easy/print%20elements/README.md)                             |                   [www.hackerrank.com/print-the-elements-of-a-linked-list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true)                    |                 [Solution.java](Data%20Structures/Linked%20Lists/Singly/Easy/print%20elements/Solution.java)                  |
@@ -52,6 +61,7 @@
 | [Insert a node at a specific position in a Linked List](Data%20Structures/Linked%20Lists/Singly/Easy/insert%20a%20node%20at%20a%20specific%20position/README.md) | [www.hackerrank.com/insert-a-node-at-a-specific-position-in-a-linked-list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true)  | [Solution.java](Data%20Structures/Linked%20Lists/Singly/Easy/insert%20a%20node%20at%20a%20specific%20position/Solution.java)  |
 |                                    [Delete a Node](Data%20Structures/Linked%20Lists/Singly/Easy/delete%20a%20node/README.md)                                     |                      [www.hackerrank.com/delete-a-node-from-a-linked-list](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem?isFullScreen=true)                       |                 [Solution.java](Data%20Structures/Linked%20Lists/Singly/Easy/delete%20a%20node/Solution.java)                 |
 
+</details>
 
 ## Contribute
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.

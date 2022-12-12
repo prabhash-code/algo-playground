@@ -14,6 +14,7 @@ import static java.util.stream.Collectors.toList;
 
 class Solution {
 
+  // time complexity = O(n^2)   space complexity = O(1)
   public static List<Integer> findIndeces(List<Integer> arr, Integer output) {
     for (int i = 0; i < arr.size(); i++) {
       for (int j = i + 1; j < arr.size(); j++) {
@@ -42,7 +43,7 @@ class Solution {
     }
     return null;
   }
-
+  // time complexity = O(n)   space complexity = O(n)
   public static List<Integer> findIndecesAnother(List<Integer> arr, Integer output) {
     Map<Integer, Integer> map = new HashMap<>();
 

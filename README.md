@@ -13,67 +13,78 @@
 </div>
 
 # Content
+
 - [How to Use](#how-to-use)
 - [Solutions](#solutions)
-  - [Data Structures - Arrays](#data-structures---arrays)
-  - [Data Structures - Linked Lists](#data-structures---linked-lists)
+    - [Data Structures - Arrays](#data-structures---arrays)
+    - [Data Structures - Linked Lists](#data-structures---linked-lists)
 - [Contribute](#contribute)
 
 ## How to Use
-- Folders are based on the category of the DSA.( Currently, have ***Data Structures*** folder only. )
-  - Each category has three subcategories called `Easy`, `Medium` and `Hard` based on the difficulty level.
-  - Every leaf folder has `Solution.java` and `README.md` file.
-    - `README.md` file describes the question and the solution process.
-    - `Solution.java` file contains the code.
-- There is the ***src*** folder which you can use for test your code. 
 
+- Folders are based on the category of the DSA.( Currently, have ***Data Structures*** folder only. )
+    - Each category has three subcategories called `Easy`, `Medium` and `Hard` based on the difficulty level.
+    - Every leaf folder has `Solution.java` and `README.md` file.
+        - `README.md` file describes the question and the solution process.
+        - `Solution.java` file contains the code.
+- There is the ***src*** folder which you can use for test your code.
 
 > ℹ️ ***We are pretty sure, you may see the problem in a different way. Feel free to optimize.***
 
-
 ## Basic steps to solve a problem
+
 ### Step 01: Verify the constraints
+
 First, identify the constraints/boundaries for the problem. This is good to find out the edge cases.
 
 Example:
-  - Are all the numbers positive or can there be negatives?
-  - Are there any duplicate numbers in the array?
-  - Will there always be a solution available? What do we do/return if there’s no solution?
 
+- Are all the numbers positive or can there be negatives?
+- Are there any duplicate numbers in the array?
+- Will there always be a solution available? What do we do/return if there’s no solution?
 
 ### Step 02: Write out some test cases
+
 Then write down some test inputs that cover the above constraints/boundaries.
 
 ### Step 03: Figure out a solution without code
-Write your solution in a paper or on notepad (not on a IDE)
-### Step 04: Write out a solution in code
-Code your solution in the IDE
-### Step 05: Test the code with test cases
-Important: Always test the code
-  - with empty array,
-  - array with one value,
-  - array with duplicates
 
+Write your solution in a paper or on notepad (not on a IDE)
+
+### Step 04: Write out a solution in code
+
+Code your solution in the IDE
+
+### Step 05: Test the code with test cases
+
+Important: Always test the code
+
+- with empty array,
+- array with one value,
+- array with duplicates
 
 ## Solutions
 
-
 ### Data Structures - Arrays
+
 <details>
   <summary>Click here to expand</summary>
 
-|                                                Problem                                                |                                                           Web Link                                                            |                                               Solution                                               |
-|:-----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-|      [Array Reverse](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/README.md)       |           [www.hackerrank.com/arrays-ds](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)           |    [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/Solution.java)    |
-|           [Hourglass](Data%20Structures/Arrays/Two%20Dimensional/Easy/hourglass/README.md)            |       [www.hackerrank.com/2d-array-hourglass](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true)       |       [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/hourglass/Solution.java)       |
-|      [Dynamic Array](Data%20Structures/Arrays/Two%20Dimensional/Easy/dynamic%20array/README.md)       |       [www.hackerrank.com/dynamic-array](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true)       |    [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/dynamic%20array/Solution.java)    |
-|      [Left Rotation](Data%20Structures/Arrays/One%20Dimensional/Easy/left%20rotation/README.md)       | [www.hackerrank.com/array-left-rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true) |    [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/left%20rotation/Solution.java)    |
-|     [Sparse Arrays](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/README.md)      |       [www.hackerrank.com/sparse-arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)       |   [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/Solution.java)   |
-| [Array Manipulation](Data%20Structures/Arrays/Two%20Dimensional/Hard/array%20manipulation/README.md)  |        [www.hackerrank.com/array-manipulation](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true)         | [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Hard/array%20manipulation/Solution.java)  |
+|                                                         Problem                                                          |                                                           Web Link                                                            |                                                     Solution                                                     |
+|:------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
+|                [Array Reverse](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/README.md)                |           [www.hackerrank.com/arrays-ds](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)           |          [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/array%20reverse/Solution.java)          |
+|                     [Hourglass](Data%20Structures/Arrays/Two%20Dimensional/Easy/hourglass/README.md)                     |       [www.hackerrank.com/2d-array-hourglass](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true)       |             [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/hourglass/Solution.java)             |
+|                [Dynamic Array](Data%20Structures/Arrays/Two%20Dimensional/Easy/dynamic%20array/README.md)                |       [www.hackerrank.com/dynamic-array](https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true)       |          [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Easy/dynamic%20array/Solution.java)          |
+|                [Left Rotation](Data%20Structures/Arrays/One%20Dimensional/Easy/left%20rotation/README.md)                | [www.hackerrank.com/array-left-rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true) |          [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/left%20rotation/Solution.java)          |
+|               [Sparse Arrays](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/README.md)               |       [www.hackerrank.com/sparse-arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)       |         [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Medium/sparse%20arrays/Solution.java)         |
+|           [Array Manipulation](Data%20Structures/Arrays/Two%20Dimensional/Hard/array%20manipulation/README.md)           |        [www.hackerrank.com/array-manipulation](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true)         |       [Solution.java](Data%20Structures/Arrays/Two%20Dimensional/Hard/array%20manipulation/Solution.java)        |
+|           [Sum of two](Data%20Structures/Arrays/One%20Dimensional/Easy/sum%20of%20two/README.md)                         |                                                                                                                               |         [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/sum%20of%20two/Solution.java)            |
+| [Container with most water](Data%20Structures/Arrays/One%20Dimensional/Medium/container%20with%20most%20water/README.md) |                                                                                                                               | [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Medium/container%20with%20most%20water/Solution.java) |
 
 </details>
 
 ### Data Structures - Linked Lists
+
 <details>
   <summary>Click here to expand</summary>
 
@@ -91,4 +102,5 @@ Important: Always test the code
 </details>
 
 ## Contribute
+
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.

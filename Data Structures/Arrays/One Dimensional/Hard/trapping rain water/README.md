@@ -21,7 +21,7 @@ Return<br>
 * Then get the minimum of both `maxLeft` and `maxRight`, and subtract it by the current column/pile height.
 * The formula behind the logic is `waterInCurrentPile = Math.min(maxLeft, maxRight) - arr.get(i);`
 
-#### Then the optimal solution using **Two Pointers Technique** with the O(n) time and O(1) space complexities.
+#### Then the optimal solution using ***Two Pointers Technique*** with the O(n) time and O(1) space complexities.
 * Identify pointer with lesser value
 * Is this pointer value less than or equal to the max on that side
   * Yes - Update max on that side

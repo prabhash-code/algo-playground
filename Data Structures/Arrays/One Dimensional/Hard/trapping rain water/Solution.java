@@ -47,4 +47,43 @@ class Solution {
     return total;
   }
 
+  // time complexity = O(n)   space complexity = O(1)
+  public static Integer trappingWater(List<Integer> arr) {
+    Integer total = 0;
+
+    if (arr.size() < 1) {
+      return total;
+    }
+
+    Integer leftIdx = 0;
+    Integer rightIdx = arr.size() - 1;
+
+    Integer maxLeft = 0;
+    Integer maxRight = 0;
+
+    while (leftIdx <= rightIdx) {
+      if (arr.get(leftIdx) < arr.get(rightIdx)) {
+
+        if (arr.get(leftIdx) >= maxLeft){
+          maxLeft = arr.get(leftIdx);
+        } else {
+          total += maxLeft - arr.get(leftIdx);
+        }
+
+        leftIdx++;
+      } else {
+
+        if (arr.get(rightIdx) >= maxRight){
+          maxRight = arr.get(rightIdx);
+        } else {
+          total += maxRight - arr.get(rightIdx);
+        }
+
+        rightIdx--;
+      }
+    }
+
+    return total;
+  }
+
 }

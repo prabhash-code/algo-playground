@@ -22,8 +22,12 @@ Return<br>
 * The formula behind the logic is `waterInCurrentPile = Math.min(maxLeft, maxRight) - arr.get(i);`
 
 #### Then the optimal solution using **Two Pointers Technique** with the O(n) time and O(1) space complexities.
-
-
+* Identify pointer with lesser value
+* Is this pointer value less than or equal to the max on that side
+  * Yes - Update max on that side
+  * No - get water for pointer value and add it to the total
+* move pointer to inward/backward
+* repeat above until both pointers are met
 
 
 [//]: # (adding additional margin from bottom)

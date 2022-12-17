@@ -27,41 +27,33 @@
     - Every leaf folder has `Solution.java` and `README.md` file.
         - `README.md` file describes the question and the solution process.
         - `Solution.java` file contains the code.
-- There is the ***src*** folder which you can use for test your code.
-
-> ℹ️ ***We are pretty sure, you may see the problem in a different way. Feel free to optimize.***
+- There is the ***src*** folder which you can use for test the code.
 
 ## Basic steps to solve a problem
 
-### Step 01: Verify the constraints
+#### Step 01: Verify the constraints
+    First, identify the constraints/boundaries for the problem. This is good to find out the edge cases.
+        Example:
+           - Are all the numbers positive or can there be negatives?
+           - Are there any duplicate numbers in the array?
+           - Will there always be a solution available? What do we do/return if there’s no solution?
 
-First, identify the constraints/boundaries for the problem. This is good to find out the edge cases.
+#### Step 02: Write out some test cases
 
-Example:
+    Then write down some test inputs that cover the above constraints/boundaries.
 
-- Are all the numbers positive or can there be negatives?
-- Are there any duplicate numbers in the array?
-- Will there always be a solution available? What do we do/return if there’s no solution?
+#### Step 03: Figure out a solution without code
 
-### Step 02: Write out some test cases
+    Write your solution in a paper or on notepad (not on a IDE)
 
-Then write down some test inputs that cover the above constraints/boundaries.
+#### Step 04: Write out a solution in code
+    Code your solution in the IDE
 
-### Step 03: Figure out a solution without code
-
-Write your solution in a paper or on notepad (not on a IDE)
-
-### Step 04: Write out a solution in code
-
-Code your solution in the IDE
-
-### Step 05: Test the code with test cases
-
-Important: Always test the code
-
-- with empty array,
-- array with one value,
-- array with duplicates
+#### Step 05: Test the code with test cases
+    Important: Always test the code
+        - with empty array,
+        - array with one value,
+        - array with duplicates
 
 ## Solutions
 

@@ -17,6 +17,12 @@ keep looking the duplicate values using a `set`. It'll take `O(n^2)` time and `O
 complexities.
 * Second one also another brute force solution, and It's also take `O(n^2)` time and `O(n)` space 
 complexities.
+* Third one is more optimized solution which uses the *Sliding Window* technic. It just takes `O(n)` time and space
+  complexities.
+
+> **Sliding Window**: Form a window over some ***portion*** of ***sequential*** data, then move that window
+> throughout the data to capture different part of it.
+
 </details>
 
 [//]: # (adding additional margin from bottom)

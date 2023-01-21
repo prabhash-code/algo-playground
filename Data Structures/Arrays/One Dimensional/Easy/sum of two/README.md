@@ -3,6 +3,7 @@ You are given an array with integers and we need to find indices of 2 numbers fr
 
 Example<br>
 >***target = 11***
+> 
 >***Int[] arr = [1, 3, 7, 9, 2]***
 
 Return<br>

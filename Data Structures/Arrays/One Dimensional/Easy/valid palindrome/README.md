@@ -9,7 +9,7 @@ Example<br>
 >***s = "A man, a plan, a canal: Panama"***
 
 Return<br>
-Explanation: "amanaplanacanalpanama" is a palindrome. Hense we are return,
+Explanation: "amanaplanacanalpanama" is a palindrome. Hence we are return,
 >***true***
 
 ## Solution 🙋
@@ -18,6 +18,10 @@ Explanation: "amanaplanacanalpanama" is a palindrome. Hense we are return,
 
 This is an easy question and we can solve this by using two pointers. We are matching the left and 
 right characters and if they are matching it is a palindrome.
+
+*There is another two ways to check a palindrome (But we didn't show those algorithms)
+1. Using two pointers as above but we are matching characters from middle to left/right. (Instead of left/right to middle)
+2. Reverse the string first, and then match the two strings.
 </details>
 
 [//]: # (adding additional margin from bottom)

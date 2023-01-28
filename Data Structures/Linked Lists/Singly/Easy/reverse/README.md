@@ -13,8 +13,6 @@ Manipulate the `next` pointers of each node in place and return `head`, now refe
 <details>
   <summary>Click here to expand the solution</summary>
 
-> ***NOTE***: Anyone curious to learn about LinkedLists from scratch [here is a good article](https://medium.com/@prabhash.code/java-collections-under-the-hood-linkedlist-e01-8444a0bb4544) which explain the implementation of the `java.util.LinkedList`.
-
 1. As guide in the question we need to change the `next` pointers of the node. So we maintain the 3 pointers for 
 `current`, `previous` and `next` nodes.
 2. Then we are changing the pointers of the nodes until the `current` node is empty. 
@@ -27,6 +25,13 @@ Here is the illustration of how the variables are assigns after each loop for ab
 |   previous   |  null   |  1  |  2   |  3   |
 |   current    |    1    |  2  |  3   | null |
 3. We can see finally the `previous` provide what we are need i.e. reversed LinkedList.
+
+**Steps to reverse a LinkedList**
+1. get current Node
+2. Store next value
+3. Update next value to list so far
+4. Store current Node as lsi so far
+5. Update current Node to stored next value at step 2
 
 </details>
 

@@ -21,14 +21,15 @@ class SinglyLinkedListNode {
 }
 
 public class Solution {
+
+    // time complexity = O(n)   space complexity = O(1)
     public static SinglyLinkedListNode reverse(SinglyLinkedListNode head) {
         // Write your code here
         SinglyLinkedListNode current = head;
         SinglyLinkedListNode previous = null;
-        SinglyLinkedListNode next = null;
 
         while(current != null){
-            next = current.next;
+            SinglyLinkedListNode next = current.next;
             current.next = previous;
             previous = current;
             current = next;

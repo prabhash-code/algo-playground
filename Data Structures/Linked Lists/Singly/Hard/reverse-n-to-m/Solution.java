@@ -10,11 +10,11 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class SinglyLinkedListNode {
+class ListNode {
     public int data;
-    public SinglyLinkedListNode next;
+    public ListNode next;
 
-    public SinglyLinkedListNode(int nodeData) {
+    public ListNode(int nodeData) {
         this.data = nodeData;
         this.next = null;
     }

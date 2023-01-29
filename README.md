@@ -62,7 +62,7 @@
 |:------------:|:-----:|
 |    Arrays    |  14   |
 | Linked Lists |  11   |
-|    Stacks    |   1   |
+|    Stacks    |   2   |
 
 ### Arrays
 
@@ -115,9 +115,10 @@
 <details>
   <summary>Click here for more details</summary>
 
-|                                                                             Problem                                                                             |                                                                                             Web Link                                                                                              |                                                           Solution                                                           |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
-|                                           [Valid Parentheses](Data%20Structures/Stacks/Easy/valid-parentheses/README.md)                                           |                   [www.leetcode.com/valid-parentheses](https://leetcode.com/problems/valid-parentheses/)                   |                 [Solution.java](Data%20Structures/Stacks/Easy/valid-parentheses/Solution.java)                 |
+|                                                            Problem                                                            |                                                               Web Link                                                               |                                                Solution                                                |
+|:-----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+|                        [Valid Parentheses](Data%20Structures/Stacks/Easy/valid-parentheses/README.md)                         |                        [www.leetcode.com/valid-parentheses](https://leetcode.com/problems/valid-parentheses/)                        |             [Solution.java](Data%20Structures/Stacks/Easy/valid-parentheses/Solution.java)             |
+|[Minimum Remove to Make Valid Parentheses](Data%20Structures/Stacks/Medium/minimum-remove-to-make-valid-parentheses/README.md) | [www.leetcode.com/minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) |[Solution.java](Data%20Structures/Stacks/Medium/minimum-remove-to-make-valid-parentheses/Solution.java) |
 
 </details>
 

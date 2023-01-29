@@ -21,8 +21,14 @@ Example<br>
 <details>
   <summary>Click here to expand the solution</summary>
 
+There are two solutions we provided.
 01. This is straight forward solution. We are maintaining a `Set` that contains seen nodes and then keep checking 
 against the current node in each iteration.
+02. Secong one implement the  floyd's algorithm. 
+    1. Basically here we are maintaining two pointers one moving slow and other one is fast.
+    2. Then if a cycle has, the two pointers should meet at some point. (Notice that this meeting may be happening after 
+       both pointers are go few rounds in the cycle. We cannot guaranty that when it's happening, hence we have to 
+       iterate until they are met.)
 
 </details>
 

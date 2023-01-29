@@ -39,4 +39,24 @@ public class Solution {
 
         return false;
     }
+
+    // time complexity = O(n)   space complexity = O(1)
+    public static boolean hasCycle(Node head) {
+        Node slow = head;
+        Node fast = head;
+
+        while (true) {
+            slow = slow.next;
+            fast = fast.next;
+
+            if(slow == null || fast == null){
+                return false;
+            }else {
+                // increment fast pointer again means it moving twice than the slow pointer
+                fast = fast.next;
+            }
+
+            if (slow == fast) return true;
+        }
+    }
 }

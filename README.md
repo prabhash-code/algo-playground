@@ -4,6 +4,7 @@
 
 <div align="center">
 
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116.svg?style=Flat-square&logo=LeetCode&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=Flat-square&logo=HackerRank&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Flat-square&logo=java&logoColor=white)
 ![PR](https://img.shields.io/static/v1?label=Made%20with%20%F0%9F%A4%8D%20by&message=develpoers&color=blue&style=Flat-square)
@@ -61,8 +62,9 @@
 |:------------:|:-----:|
 |    Arrays    |  14   |
 | Linked Lists |  11   |
+|    Stacks    |   1   |
 
-### Data Structures - Arrays
+### Arrays
 
 <details>
   <summary>Click here for more details</summary>
@@ -84,10 +86,10 @@
 |                                   [Valid palindrome](Data%20Structures/Arrays/One%20Dimensional/Easy/valid%20palindrome/README.md)                                   |                                     [www.leetcode.com/valid-palindrome](https://leetcode.com/problems/valid-palindrome/)                                     |                    [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Easy/valid%20palindrome/Solution.java)                    |
 |                                     [Almost a palindrome](Data%20Structures/Arrays/One%20Dimensional/Medium/almost%20a%20palindrome/README.md)                       |                                       [www.leetcode.com/almost-a-palindrome](https://leetcode.com/problems/valid-palindrome-ii/)                             |                  [Solution.java](Data%20Structures/Arrays/One%20Dimensional/Medium/almost%20a%20palindrome/Solution.java)               |
 
-*Some String based questions are also added to `Arrays` category
+*Some String based questions are also added to the `Arrays` category
 </details>
 
-### Data Structures - Linked Lists
+### Linked Lists
 
 <details>
   <summary>Click here for more details</summary>
@@ -105,6 +107,17 @@
 |                              [Reverse a linked list n to m](Data%20Structures/Linked%20Lists/Singly/Hard/reverse-n-to-m/README.md)                               |                                                 [www.leetcode.com/reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/)                                                  |                  [Solution.java](Data%20Structures/Linked%20Lists/Singly/Hard/reverse-n-to-m/Solution.java)                  |
 |           [Flatten a Multilevel Doubly Linked List](Data%20Structures/Linked%20Lists/Doubly/Medium/flatten-a-multilevel-doubly-linked-list/README.md)            |                                [www.leetcode.com/flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)                                 |    [Solution.java](Data%20Structures/Linked%20Lists/Doubly/Medium/flatten-a-multilevel-doubly-linked-list/Solution.java)     |
 |                                    [Linked List Cycle](Data%20Structures/Linked%20Lists/Singly/Easy/linked-list-cycle/README.md)                                 |                                                             [www.leetcode.com/linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)                                                |                 [Solution.java](Data%20Structures/Linked%20Lists/Singly/Easy/linked-list-cycle/Solution.java)                |
+
+</details>
+
+### Stacks
+
+<details>
+  <summary>Click here for more details</summary>
+
+|                                                                             Problem                                                                             |                                                                                             Web Link                                                                                              |                                                           Solution                                                           |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
+|                                           [Valid Parentheses](Data%20Structures/Stacks/Easy/valid-parentheses/README.md)                                           |                   [www.leetcode.com/valid-parentheses](https://leetcode.com/problems/valid-parentheses/)                   |                 [Solution.java](Data%20Structures/Stacks/Easy/valid-parentheses/Solution.java)                 |
 
 </details>
 

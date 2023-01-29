@@ -60,7 +60,7 @@
 | Problem Type | Count |
 |:------------:|:-----:|
 |    Arrays    |  14   |
-| Linked Lists |   9   |
+| Linked Lists |  11   |
 
 ### Data Structures - Arrays
 
@@ -102,8 +102,9 @@
 |                                 [Print in Reverse](Data%20Structures/Linked%20Lists/Singly/Easy/print%20in%20reverse/README.md)                                  |                 [www.hackerrank.com/print-linked-list-in-reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem?isFullScreen=true)                 |               [Solution.java](Data%20Structures/Linked%20Lists/Singly/Easy/print%20in%20reverse/Solution.java)               |
 |                                     [Reverse a linked list](Data%20Structures/Linked%20Lists/Singly/Easy/reverse/README.md)                                      |                                 [www.hackerrank.com/reverse-a-linked-list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem?isFullScreen=true)                                 |                     [Solution.java](Data%20Structures/Linked%20Lists/Singly/Easy/reverse/Solution.java)                      |
 |                                    [Compare two linked lists](Data%20Structures/Linked%20Lists/Singly/Easy/compare/README.md)                                    |                              [www.hackerrank.com/compare-two-linked-lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem?isFullScreen=true)                              |                     [Solution.java](Data%20Structures/Linked%20Lists/Singly/Easy/compare/Solution.java)                      |
-|                                  [Reverse a linked list n to m](Data%20Structures/Linked%20Lists/Singly/Hard/reverse-n-to-m/README.md)                           |                                                                 [www.leetcode.com/reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/)                                  |                       [Solution.java](Data%20Structures/Linked%20Lists/Singly/Hard/reverse-n-to-m/Solution.java)             |
+|                              [Reverse a linked list n to m](Data%20Structures/Linked%20Lists/Singly/Hard/reverse-n-to-m/README.md)                               |                                                 [www.leetcode.com/reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/)                                                  |                  [Solution.java](Data%20Structures/Linked%20Lists/Singly/Hard/reverse-n-to-m/Solution.java)                  |
 |           [Flatten a Multilevel Doubly Linked List](Data%20Structures/Linked%20Lists/Doubly/Medium/flatten-a-multilevel-doubly-linked-list/README.md)            |                                [www.leetcode.com/flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)                                 |    [Solution.java](Data%20Structures/Linked%20Lists/Doubly/Medium/flatten-a-multilevel-doubly-linked-list/Solution.java)     |
+|                                    [Linked List Cycle](Data%20Structures/Linked%20Lists/Singly/Easy/linked-list-cycle/README.md)                                 |                                                             [www.leetcode.com/linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)                                                |                 [Solution.java](Data%20Structures/Linked%20Lists/Singly/Easy/linked-list-cycle/Solution.java)                |
 
 </details>
 

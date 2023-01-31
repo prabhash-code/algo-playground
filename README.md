@@ -146,9 +146,16 @@
 <details>
   <summary>Click here for more details</summary>
 
-|                              Problem                              |                                                      Web Link                                                       |                                Solution                                |
-|:-----------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------:|
-|     [Quicksort](Algorithms/Sorting/Basic/quick-sort/README.md)    |   [www.leetcode.com/quicksort-java](https://leetcode.com/problems/sort-an-array/solutions/281685/quicksort-java/)   |    [Solution.java](Algorithms/Sorting/Basic/quick-sort/Solution.java)  |
+|                                Problem                                |                                                      Web Link                                                       |                                  Solution                                  |
+|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
+|    [Quicksort](Algorithms/Sorting/Appendices/quick-sort/README.md)    |   [www.leetcode.com/quicksort-java](https://leetcode.com/problems/sort-an-array/solutions/281685/quicksort-java/)   |   [Solution.java](Algorithms/Sorting/Appendices/quick-sort/Solution.java)  |
+
+
+#### Appendices
+|                                Problem                                |                                                      Web Link                                                       |                                  Solution                                  |
+|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
+|    [Quicksort](Algorithms/Sorting/Appendices/quick-sort/README.md)    |   [www.leetcode.com/quicksort-java](https://leetcode.com/problems/sort-an-array/solutions/281685/quicksort-java/)   |   [Solution.java](Algorithms/Sorting/Appendices/quick-sort/Solution.java)  |
+
 
 </details>
 

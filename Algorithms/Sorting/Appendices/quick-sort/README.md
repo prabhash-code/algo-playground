@@ -32,11 +32,10 @@ than other methods as it requires finding the median.
 
 ### Quick Sort Algorithm
 
-<img src="img_1.PNG" alt="Container with most water" width="500"/>
-<br>
-<br>
-<br>
-<img src="img.PNG" alt="Container with most water" width="500"/>
+<img src="img_1.PNG" alt="Quick Sort Algorithm" width="500"/>
+<br/>
+<br/>
+<img src="img.PNG" alt="Quick Sort Algorithm" width="800"/>
 
 
 [//]: # (adding additional margin from bottom)

@@ -13,6 +13,10 @@ import static java.util.stream.Collectors.toList;
 
 class QuickSortOne {
 
+    /**
+     * This QuickSort logic iterate through the array from left to the right, when comparing and swapping
+     */
+
     // method to find the partition position
     public static int partition(int array[], int low, int high) {
 
@@ -83,6 +87,10 @@ class QuickSortOne {
 
 
 class QuickSortTwo {
+
+    /**
+     * This QuickSort logic iterate through the array from left and right to the middle, when comparing and swapping
+     */
 
     public static void main(String[] args) {
         Random random = new Random();

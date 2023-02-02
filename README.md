@@ -146,9 +146,9 @@
 <details>
   <summary>Click here for more details</summary>
 
-|                                Problem                                |                                                      Web Link                                                       |                                  Solution                                  |
-|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
-|    [Quicksort](Algorithms/Sorting/Appendices/quick-sort/README.md)    |   [www.leetcode.com/quicksort-java](https://leetcode.com/problems/sort-an-array/solutions/281685/quicksort-java/)   |   [Solution.java](Algorithms/Sorting/Appendices/quick-sort/Solution.java)  |
+|                                              Problem                                               |                                                       Web Link                                                        |                                      Solution                                       |
+|:--------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
+|  [Kth Largest Element in an Array](Algorithms/Sorting/kth-largest-element-in-an-array/README.md)   |  [www.leetcode.com/kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   |  [Solution.java](Algorithms/Sorting/kth-largest-element-in-an-array/Solution.java)  |
 
 
 #### Appendices

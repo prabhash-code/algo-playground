@@ -41,7 +41,7 @@ class Solution {
 
     int partitionIdx = left;
 
-    // iterate until `pivot - 1`. We choose the pivot as rightmost index, hence `j < right` will work.
+    // iterate until `pivot - 1`. We choose the pivot as rightmost index, hence `j < right` will do this.
     // Since we don't need to compare `pivot` with itself, we only compare others with `pivot`
     for (int j = left; j < right; j++) {
 

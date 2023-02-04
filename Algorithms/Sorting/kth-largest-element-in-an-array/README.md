@@ -27,7 +27,15 @@ Here we are using the `Quicksort` to sort the array. You can get a basic idea fr
 
 
 ### Solution Two - QuickSelect
-`QuickSelect` Algorithm only takes `O(n)` time complexity and `O(1)` space complexity.
+`QuickSelect` algorithm is a selection algorithm to find the `k-th smallest element` in an unordered list or array in 
+linear time on average. It works by using the same partitioning idea as the `QuickSort` algorithm, but instead of 
+recursively sorting the whole array, it only continues sorting the part of the array that could contain the k-th 
+the smallest element.
+
+As per our example above we know that 2nd largest element (when regarding from tail of the array to start) also 
+become the 5th smallest (when regarding from starting point of the array to tail) element.
+
+This `QuickSelect` Algorithm only takes `O(n)` time complexity and `O(1)` space complexity.
 
 </details>
 

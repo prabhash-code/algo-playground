@@ -21,11 +21,11 @@ class Solution {
 
         while (left <= right) {
             int mid = (left + right) / 2;
-            int foundVal = nums[mid];
+            int midVal = nums[mid];
 
-            if (foundVal == target)
+            if (midVal == target)
                 return mid;
-            else if (foundVal > target)
+            else if (midVal > target)
                 left = mid + 1;
             else
                 right = mid - 1;

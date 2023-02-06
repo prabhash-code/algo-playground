@@ -137,9 +137,10 @@
 
 ## Algorithms
 
-|     Type     | Solutions |
-|:------------:|:---------:|
-|   Sorting    |     1     |
+|   Type    | Solutions |
+|:---------:|:---------:|
+|  Sorting  |     1     |
+| Searching |     1     |
 
 ### Sorting
 
@@ -152,9 +153,26 @@
 
 
 #### Appendices
-|                                Problem                                |                                                      Web Link                                                       |                                  Solution                                  |
-|:---------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
-|    [Quicksort](Algorithms/Sorting/Appendices/quick-sort/README.md)    |   [www.leetcode.com/quicksort-java](https://leetcode.com/problems/sort-an-array/solutions/281685/quicksort-java/)   |   [Solution.java](Algorithms/Sorting/Appendices/quick-sort/Solution.java)  |
+|                                Problem                                 |                                                    Web Link                                                     |                                   Solution                                   |
+|:----------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+|    [Quick Sort](Algorithms/Sorting/Appendices/quick-sort/README.md)    | [www.leetcode.com/quicksort-java](https://leetcode.com/problems/sort-an-array/solutions/281685/quicksort-java/) |   [Solution.java](Algorithms/Sorting/Appendices/quick-sort/Solution.java)    |
+
+</details>
+
+### Searching
+
+<details>
+  <summary>Click here for more details</summary>
+
+|                                                                      Problem                                                                       |                                                                              Web Link                                                                              |                                                  Solution                                                   |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+| [Find First and Last Position of Element in Sorted Array](Algorithms/Searching/find-first-and-last-position-of-element-in-sorted-array/README.md)  | [www.leetcode.com/find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution.java](Algorithms/Searching/find-first-and-last-position-of-element-in-sorted-array/Solution.java) |
+
+
+#### Appendices
+|                                 Problem                                  |                                      Web Link                                      |                                   Solution                                   |
+|:------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| [Binary Search](Algorithms/Searching/Appendices/binary-search/README.md) |   [www.leetcode.com/binary-search](https://leetcode.com/problems/binary-search/)   | [Solution.java](Algorithms/Searching/Appendices/binary-search/Solution.java) |
 
 
 </details>

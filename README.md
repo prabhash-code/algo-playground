@@ -13,12 +13,17 @@
 
 </div>
 
-# Content
+## Content
 
 - [How to Use](#how-to-use)
-- [Solutions](#solutions)
-    - [Data Structures - Arrays](#data-structures---arrays)
-    - [Data Structures - Linked Lists](#data-structures---linked-lists)
+- [Basic steps to solve a problem](#basic-steps-to-solve-a-problem)
+- [Data Structures](#data-structures)
+    - [Arrays](#arrays)
+    - [Linked Lists](#linked-lists)
+    - [Stacks & Queues](#stacks-&-queues)
+- [Algorithms](#algorithms)
+    - [Sorting](#sorting)
+    - [Searching](#searching)
 - [Contribute](#contribute)
 
 ## How to Use

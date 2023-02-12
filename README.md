@@ -69,11 +69,12 @@
 
 ## Data Structures
 
-|    Type      | Solutions |
+|     Type     | Solutions |
 |:------------:|:---------:|
 |    Arrays    |    14     |
 | Linked Lists |    11     |
 |    Stacks    |     3     |
+|     Tree     |     1     |
 
 ### Arrays
 
@@ -131,6 +132,17 @@
 |                         [Valid Parentheses](Data%20Structures/Stacks/Easy/valid-parentheses/README.md)                         |                        [www.leetcode.com/valid-parentheses](https://leetcode.com/problems/valid-parentheses/)                        |             [Solution.java](Data%20Structures/Stacks/Easy/valid-parentheses/Solution.java)              |
 | [Minimum Remove to Make Valid Parentheses](Data%20Structures/Stacks/Medium/minimum-remove-to-make-valid-parentheses/README.md) | [www.leetcode.com/minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution.java](Data%20Structures/Stacks/Medium/minimum-remove-to-make-valid-parentheses/Solution.java) |
 |              [Implement Queue using Stacks](Data%20Structures/Stacks/Easy/implement-queue-using-stacks/README.md)              |             [www.leetcode.com/implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)             |        [Solution.java](Data%20Structures/Stacks/Easy/implement-queue-using-stacks/Solution.java)        |
+
+</details>
+
+### Tree
+
+<details>
+  <summary>Click here for more details</summary>
+
+|                                                     Problem                                                     | Web Link |                                                    Solution                                                    |
+|:---------------------------------------------------------------------------------------------------------------:|:--------:|:--------------------------------------------------------------------------------------------------------------:|
+|  [Binary Search Tree](Data%20Structures/Tree/Binary-Search-Tree/Appendices/binary-search-tree-intro/README.md)  |    -     |  [Solution.java](Data%20Structures/Tree/Binary-Search-Tree/Appendices/binary-search-tree-intro/Solution.java)  |
 
 </details>
 

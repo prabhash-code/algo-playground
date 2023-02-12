@@ -158,6 +158,18 @@
 |:---------:|:---------:|
 |  Sorting  |     1     |
 | Searching |     1     |
+|  Common   |     1     |
+
+### Common
+
+<details>
+  <summary>Click here for more details</summary>
+
+|                                 Problem                                  |                                Web Link                                |                                Solution                                |
+|:------------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|
+| [Least Recently Used](Algorithms/Algorithms/Common/Medium/LRU/README.md) | [www.leetcode.com/lru-cache](https://leetcode.com/problems/lru-cache/) | [Solution.java](Algorithms/Algorithms/Common/Medium/LRU/Solution.java) |
+
+</details>
 
 ### Sorting
 

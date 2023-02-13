@@ -7,7 +7,7 @@ the end in each iteration. Therefore, it is called a bubble sort.
 * **Time Complexity**: `O(n)` on best case. `O(n^2)` on the average and worst cases.
 * **Space Complexity**: `O(1)` on the best, average and worst case scenarios.
 
-### Bubble Sort Algorithm
+### Bubble Sort Algorithm 🙋
 ```java
 bubbleSort(array)
   for i <- 1 to indexOfLastUnsortedElement-1

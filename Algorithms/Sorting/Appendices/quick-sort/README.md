@@ -30,7 +30,7 @@ performance and helps avoid worst-case scenarios.
 for cases where the array is not already sorted or nearly sorted. However, it is more computationally expensive 
 than other methods as it requires finding the median.
 
-### Quick Sort Algorithm
+### Quick Sort Algorithm 🙋
 
 <img src="img_1.PNG" alt="Quick Sort Algorithm" width="500"/>
 <br/>

@@ -1,18 +1,18 @@
-## Quicksort 🤔
-Quicksort is a `divide-and-conquer` sorting algorithm. It works by selecting a `pivot element` from the array and 
+## Quick Sort 🤔
+Quick Sort is a `divide-and-conquer` sorting algorithm. It works by selecting a `pivot element` from the array and 
 partitioning the other elements into two sub-arrays, according to whether they are less than or greater than 
 the pivot. The sub-arrays are then sorted recursively. This process continues until the base case is reached, 
 which is an array with fewer than two elements. The final result is a sorted array.
 
-**The time complexity of QuickSort is `O(n log n)` on average and `O(n^2)` in the worst case.
-The space complexity of QuickSort is `O(log n)` in the best, average and worst case scenarios.**
+* **Time Complexity**: `O(n log n)` on average and `O(n^2)` in the worst case.
+* **Space Complexity**: `O(log n)` in the best, average and worst case scenarios.
 
 Few links to learn more 
 * [YouTube video](https://www.youtube.com/watch?v=h8eyY7dIiN4)
 * [Article on Programiz](https://www.programiz.com/dsa/quick-sort)
 
 ### Choosing the `pivot` element
-There are several ways to choose the pivot element in Quicksort:
+There are several ways to choose the pivot element in Quick Sort:
 
 * **First Element**: Choose the first element of the array as the pivot. This is the simplest method, but it can 
 lead to worst-case performance if the array is already sorted or nearly sorted.

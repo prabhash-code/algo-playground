@@ -182,9 +182,10 @@
 
 
 #### Appendices
-|                                Problem                                 |                                                    Web Link                                                     |                                   Solution                                   |
-|:----------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-|    [Quick Sort](Algorithms/Sorting/Appendices/quick-sort/README.md)    | [www.leetcode.com/quicksort-java](https://leetcode.com/problems/sort-an-array/solutions/281685/quicksort-java/) |   [Solution.java](Algorithms/Sorting/Appendices/quick-sort/Solution.java)    |
+|                              Problem                               |                                                    Web Link                                                     |                                 Solution                                  |
+|:------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+|  [Quick Sort](Algorithms/Sorting/Appendices/quick-sort/README.md)  | [www.leetcode.com/quicksort-java](https://leetcode.com/problems/sort-an-array/solutions/281685/quicksort-java/) |  [Solution.java](Algorithms/Sorting/Appendices/quick-sort/Solution.java)  |
+| [Bubble Sort](Algorithms/Sorting/Appendices/bubble-sort/README.md) |                 [www.leetcode.com/bubblesort-java](https://leetcode.com/problems/sort-colors/)                  | [Solution.java](Algorithms/Sorting/Appendices/bubble-sort/Solution.java)  |
 
 </details>
 

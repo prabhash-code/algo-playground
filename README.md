@@ -6,8 +6,9 @@
 
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116.svg?style=Flat-square&logo=LeetCode&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=Flat-square&logo=HackerRank&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Flat-square&logo=java&color=red)
 ![PR](https://img.shields.io/static/v1?label=Made%20with%20%F0%9F%A4%8D%20by&message=develpoers&color=blue&style=Flat-square)
+![Solution Count](https://img.shields.io/badge/Total%20Solutions-35-blueviolet.svg)
 
 [comment]: <> (PR welcome badge - https://img.shields.io/static/v1?label=PRs&message=Welcome&color=ff69b4&style=Flat-square)
 
@@ -156,7 +157,7 @@
 
 |   Type    | Solutions |
 |:---------:|:---------:|
-|  Sorting  |     3     |
+|  Sorting  |     4     |
 | Searching |     1     |
 |   Other   |     1     |
 
@@ -187,6 +188,7 @@
 |     [Quick Sort](Algorithms/Sorting/Appendices/quick-sort/README.md)     | [www.leetcode.com/quicksort-java](https://leetcode.com/problems/sort-an-array/solutions/281685/quicksort-java/) |   [Solution.java](Algorithms/Sorting/Appendices/quick-sort/Solution.java)   |
 |    [Bubble Sort](Algorithms/Sorting/Appendices/bubble-sort/README.md)    |                 [www.leetcode.com/bubblesort-java](https://leetcode.com/problems/sort-colors/)                  |  [Solution.java](Algorithms/Sorting/Appendices/bubble-sort/Solution.java)   |
 | [Selection Sort](Algorithms/Sorting/Appendices/selection-sort/README.md) |                 [www.leetcode.com/bubblesort-java](https://leetcode.com/problems/sort-colors/)                  | [Solution.java](Algorithms/Sorting/Appendices/selection-sort/Solution.java) |
+| [Insertion Sort](Algorithms/Sorting/Appendices/insertion-sort/README.md) |                 [www.leetcode.com/bubblesort-java](https://leetcode.com/problems/sort-colors/)                  | [Solution.java](Algorithms/Sorting/Appendices/insertion-sort/Solution.java) |
 
 </details>
 

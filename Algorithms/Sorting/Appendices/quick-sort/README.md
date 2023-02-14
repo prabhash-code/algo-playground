@@ -4,7 +4,7 @@ partitioning the other elements into two sub-arrays, according to whether they a
 the pivot. The sub-arrays are then sorted recursively. This process continues until the base case is reached, 
 which is an array with fewer than two elements. The final result is a sorted array.
 
-* **Time Complexity**: `O(n log n)` on average and `O(n^2)` in the worst case.
+* **Time Complexity**: `O(n log n)` on best and average cases. `O(n^2)` in the worst case.
 * **Space Complexity**: `O(log n)` in the best, average and worst case scenarios.
 
 Few links to learn more 
